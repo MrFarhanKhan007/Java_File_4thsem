@@ -1,5 +1,4 @@
 package Package2;
-
 public class Result extends Marks {
     protected double total_marks;
     protected double average_marks;
@@ -18,12 +17,9 @@ public class Result extends Marks {
         total_marks = Marks_in_JAVA + Marks_in_AppliedMathematics_IV + Marks_in_DiscreteMathematics + Marks_in_BehaviouralScience +
                 Marks_in_OperatingSystem + Marks_in_TheoryOfComputation + Marks_in_BasicSimulationLab + Marks_in_FBL;
     }
-
     public void AverageMarks() {
         average_marks = total_marks / 8;
     }
-
-
     public void DisplayDetails() {
         System.out.println("Name of the Student: " + name);
         System.out.println("Roll Number of the Student: " + roll_Number);

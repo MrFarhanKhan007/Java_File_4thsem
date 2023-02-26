@@ -1,8 +1,8 @@
- abstract class GeometricalFigure {
+abstract class GeometricalFigure {
     public abstract double calculateArea();
 }
 
- class Circle extends GeometricalFigure {
+class Circle extends GeometricalFigure {
     private double radius;
 
     public Circle(double radius) {
@@ -15,7 +15,7 @@
     }
 }
 
- class Rectangle extends GeometricalFigure {
+class Rectangle extends GeometricalFigure {
     private double width;
     private double height;
 
@@ -30,7 +30,7 @@
     }
 }
 
- class Square extends GeometricalFigure {
+class Square extends GeometricalFigure {
     private double side;
 
     public Square(double side) {
@@ -43,7 +43,7 @@
     }
 }
 
- class Triangle extends GeometricalFigure {
+class Triangle extends GeometricalFigure {
     private double base;
     private double height;
 
@@ -57,6 +57,7 @@
         return 0.5 * base * height;
     }
 }
+
 public class Experiment9 {
     public static void main(String[] args) {
         Circle circle = new Circle(5.0);
