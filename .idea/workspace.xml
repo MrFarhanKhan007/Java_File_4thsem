@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecbb6967-35bb-4859-b066-055ae5ce1fb8" name="Changes" comment="Added 19-25 experiments">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ecbb6967-35bb-4859-b066-055ae5ce1fb8" name="Changes" comment="Added 17-19 experiments" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,12 +136,20 @@
       <option name="project" value="LOCAL" />
       <updated>1680187990952</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added 17-19 experiments">
+      <created>1680188370980</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680188370980</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="5 experiments uploading of java file" />
     <MESSAGE value="Added 19-25 experiments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 19-25 experiments" />
+    <MESSAGE value="Added 17-19 experiments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 17-19 experiments" />
   </component>
 </project>
